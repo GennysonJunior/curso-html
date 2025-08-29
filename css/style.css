@@ -1,0 +1,12 @@
+.card img {
+  width: 200px;
+  height: auto;
+}
+
+.card {
+  height: 100%;
+}
+
+.btn-sm {
+  border-radius: 100px;
+}
